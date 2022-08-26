@@ -11,6 +11,19 @@
 [![GitHub DVDLC](https://img.shields.io/github/followers/dvdlc?label=follow&style=social)](https://github.com/DVDLC)
 
 
+### <img src="https://i.pinimg.com/originals/3e/50/c8/3e50c82d8802a640d1e68cf7a7427d74.gif" width="50"> About Me.... 
+
+```html
+<p>
+    I am David a Jr Full Stack JavaScript Developer from Mexico <span>🇲🇽</span>.
+    <br/>
+    I am 24 years old 
+    <br/>
+    I am a civil engineering student and passionate about the world of technology
+</p>
+```
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My technical level... 
 ```js
 const dvdlc = {
