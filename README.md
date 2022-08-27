@@ -4,7 +4,7 @@
 ---
 
 
-<p><em> Fullstack developer at <a href="https://www.academlo.com/">Acadmelo</a><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-img-5d1bb.appspot.com/o/Escuelas%2Facademlo-icon-shadow.png?alt=media&token=3d94810a-68f8-4a66-b8d0-c9636e95aa1c" width="30"></br>Civil Engineer at <a href="https://licejecutiva.estudia-unitec.com/?aspid=GG.567.Search-50222-1&gclid=CjwKCAjw3qGYBhBSEiwAcnTRLoUbb8lKI5kDJvB50hDC2sa6cFCOFW9ZkpR4BGQTXHgcgN5V0p4n8xoCmcgQAvD_BwE#">UNITEC</a><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-img-5d1bb.appspot.com/o/Escuelas%2Funiversidad-tecnologica-de-mexico-logo-0CEF4D32CC-seeklogo.com.png?alt=media&token=0fa3ef22-b1e6-43a7-ab6a-ad461e48d46b" width="30"> 
+<p><em> Fullstack developer at <a href="https://www.academlo.com/">Academlo</a><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-img-5d1bb.appspot.com/o/Escuelas%2Facademlo-icon-shadow.png?alt=media&token=3d94810a-68f8-4a66-b8d0-c9636e95aa1c" width="30"></br>Civil Engineer at <a href="https://licejecutiva.estudia-unitec.com/?aspid=GG.567.Search-50222-1&gclid=CjwKCAjw3qGYBhBSEiwAcnTRLoUbb8lKI5kDJvB50hDC2sa6cFCOFW9ZkpR4BGQTXHgcgN5V0p4n8xoCmcgQAvD_BwE#">UNITEC</a><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-img-5d1bb.appspot.com/o/Escuelas%2Funiversidad-tecnologica-de-mexico-logo-0CEF4D32CC-seeklogo.com.png?alt=media&token=0fa3ef22-b1e6-43a7-ab6a-ad461e48d46b" width="30"> 
 
 
 [![Linkedin: DavidC, ](https://img.shields.io/badge/-DavidC.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/david-lagunes-cisneros-564753172/)
