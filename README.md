@@ -27,7 +27,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My technical level... 
 ```js
 const dvdlc = {
-    pronouns: "he" | "him",
     frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Sass', 'Boostrap'],
     backend: ['Python', 'NodeJS',],
     database: ['PostgreSQL', 'Mongo DB'],
