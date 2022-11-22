@@ -17,7 +17,7 @@
 <p>
     I am David a Jr Full Stack JavaScript Developer from Mexico <span>🇲🇽</span>.
     <br/>
-    I am 24 years old 
+    I am 25 years old 
     <br/>
     I am a civil engineering student and passionate about the world of technology
 </p>
@@ -32,6 +32,7 @@ const dvdlc = {
     database: ['PostgreSQL', 'Mongo DB'],
     devops: ['Docker(still learning)" ', 'Heroku'],
     tools: ['GIT', 'GitHub',],
+    cloud: [ 'AWS', 'Firebase' ]
     challenge: "I still estdying and practice; now I am focused on backend and python"
 }
 ```
